@@ -35,7 +35,7 @@ body
     list-style-type: none;
     font-size: 2.2vh;
     background-color: #FCE4DE;
-    
+    padding: 0;
 }
 
 nav a{
@@ -284,7 +284,6 @@ a:visited {
             text-decoration: none;
             background-image: none;
         }
-
         .section__cursos{
             display: flex;
             flex-direction: column;
